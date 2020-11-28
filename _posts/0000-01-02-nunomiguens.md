@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to nuno miguens slide!"
 ---
-New Amazing text
+This is my awsome slide
 Use the left arrow to go back!
